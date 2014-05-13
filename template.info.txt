@@ -1,7 +1,0 @@
-base     starter
-author   Yuri Myasoedov
-email    ymyasoedov@yandex.ru
-date     2014-05-07
-name     gnome.org.ru
-desc     The template used by gnome.org.ru site
-url      http://www.dokuwiki.org/template:starter
